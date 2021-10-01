@@ -1,5 +1,5 @@
  * Find Common Elements in Two Sorted Arrays
- */
+
  
 #include <stdio.h>
  
